@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello All welcome to jenkins demo project!!!</h2>
+<h2>Welcome to the demo project</h2>
 </body>
 </html>
